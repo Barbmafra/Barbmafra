@@ -1,29 +1,56 @@
 ## It's me Bárbara Mafra! - ✨ Welcome to my Github ✨
 
-Sou Bárbara Mafra, uma estudante e desenvolvedora de tecnologia.
-Tenho como habilidades técnicas nas linguagens:
+Sou Bárbara Mafra, uma estudante e desenvolvedora de tecnologia ⌨️🖱️
+
+### 💾 Habilidades técnicas nas linguagens e tecnologias 
 Typecript, Java, Sprint Boot, Angular, PostgreSQL, Oracle, PL/SQL, JavaScript, SQL, Delphi, Python, C, C#, HTML, CSS, Android, Windows.
 
-Trabalho atualmente na Senior Sistemas como Desenvolvedora de Software, 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
 
-Participei para me aperfeiçoar nos seguintes cursos:
-Inglês Intermediário na Cultura Inglesa, Blumenau - SC
-Programa Philips Desenvolve - 18 de Abril de 2022 na Philips Clinical Informatics 
-Certificado de conclusão e Certificado de reconhecimento de proatividade. 
-Minicurso Teste estático e análise de motor-foguete de espaço-modelo - Abril de 2019  na Universidade Federal do Paraná, Curitiba-PR.
-Minicurso Introdução à propulsão híbrida - Abril de 2019 na Universidade Federal do Paraná, Curitiba-PR.
 
-Participação no eventos:
-Evento E-Sports da Rocketseat - 1 de Setembro a 18 de Setembro de 2022.
-13ª Mostra Brasileira de Foguetes - Maio/2019 no Instituto Federal de Santa Catarina – Campus Gaspar, SC
-VI Festival Brasileiro de Minifoguetes - Abril/2019 na Universidade Federal do Paraná, Curitiba-PR.
-VII SERNEGRA: Descolonizar o feminismo - Novembro/2018 no Instituto Federal de Brasília, Brasília - DF
+<br/>
+<br/>
 
-Oficinas realizadas:
-Ouvinte - Python Básico - Maio/2019 no IFSC-Campus Gaspar.
-Ouvinte - Java Básico - Maio/2019 no IFSC-Campus Gaspar.
-Palestrante - 1ª Oficina de Robótica - Outubro de 2019 no IFSC-Campus Gaspar.
-Palestrante - 2ª Oficina de Robótica - Março de 2020 no IFSC-Campus Gaspar.
+Trabalho atualmente na Senior Sistemas como Desenvolvedora de Software.
 
 Projetos desenvolvidos:
 Desenvolvimento da aplicação Flowter - site para registro de pensamentos e emoções
@@ -34,12 +61,15 @@ Tenho como idiomas:
 Inglês Intermediário 
 Espanhol Básico
 
-
 ### Contatos:
-<div> 
-  <a href = "mailto:barbaramafra123@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bmafra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/bmafra/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/1PYnSx5"/></a>
+
+  <a href="mailto:barbaramafra123@hootmail.com"><img width="32px" alt="Hotmail" title="hotmail" src="https://imgur.com/AEf25Ki"/></a>
+</p>
+
+<br/>
 
  ##
  
