@@ -17,17 +17,8 @@
 
 ### 💾 Habilidades técnicas nas linguagens e tecnologias 
 Typecript, Java, Sprint Boot, Angular, PostgreSQL, Oracle, PL/SQL, JavaScript, SQL, Delphi, Python, C, C#, HTML, CSS, Android, Windows.
+<br/>
 
-Trabalho atualmente na Senior Sistemas como Desenvolvedora de Software.
-
-Projetos desenvolvidos:
-Desenvolvimento da aplicação Flowter - site para registro de pensamentos e emoções
-SorteioBarb - Aplicativo móvel de Sorteio de números para Android
-NLW-Projetinho - Criação de uma estrutura de aplicação (Back-end, Front-end e Aplicativo móvel)
-
-Tenho como idiomas:
-Inglês Intermediário <br/>
-Espanhol Básico
 
 <br/>
 
@@ -46,7 +37,12 @@ Espanhol Básico
 <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbmafra&layout=compact&langs_counts=16&theme=onedark"/>
 </div>
 
-##
+## Projetos desenvolvidos
+<p align="left">
+    <a href="https://github.com/Barbmafra/Flowter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Barbmafra&repo=Flowter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a>
+    <a href="https://github.com/Barbmafra/Nlw-Projetinho"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Barbmafra&repo=Nlw-Projetinho&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a>
+    <a href="https://github.com/Barbmafra/SorteioBarb"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Barbmafra&repo=SorteioBarb&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a>
+</p>
 
 
 
