@@ -1,54 +1,22 @@
-## It's me Bárbara Mafra! - ✨ Welcome to my Github ✨
+## ✨ Welcome to my Github ✨
 
-Sou Bárbara Mafra, uma estudante e desenvolvedora de tecnologia ⌨️🖱️
+</br>
+</br>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=DB7373&multiline=true&repeat=false&width=600&height=40&lines=B%C3%A1rbara+Mafra"/></a>
+</p>
+
+</br>
+
+<p align="center">
+    <a href="https://github.com/Barbmafra">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB8484&multiline=true&width=600&lines=Uma+estudante+e+desenvolvedora+de+tecnologia+%E2%8C%A8%EF%B8%8F%F0%9F%96%B1%EF%B8%8F"/></a>
+</p>
+
+</br>
 
 ### 💾 Habilidades técnicas nas linguagens e tecnologias 
 Typecript, Java, Sprint Boot, Angular, PostgreSQL, Oracle, PL/SQL, JavaScript, SQL, Delphi, Python, C, C#, HTML, CSS, Android, Windows.
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-
-<br/>
-<br/>
 
 Trabalho atualmente na Senior Sistemas como Desenvolvedora de Software.
 
@@ -61,12 +29,11 @@ Tenho como idiomas:
 Inglês Intermediário 
 Espanhol Básico
 
-### Contatos:
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/bmafra/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/1PYnSx5"/></a>
 
-  <a href="mailto:barbaramafra123@hootmail.com"><img width="32px" alt="Hotmail" title="hotmail" src="https://imgur.com/AEf25Ki"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bmafra/"><img width="100px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/1PYnSx5.png"/></a>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:barbaramafra123@hootmail.com"><img width="100px" alt="Hotmail" title="hotmail" src="https://i.imgur.com/AEf25Ki.png"/></a>
 </p>
 
 <br/>
