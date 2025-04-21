@@ -26,14 +26,15 @@ SorteioBarb - Aplicativo móvel de Sorteio de números para Android
 NLW-Projetinho - Criação de uma estrutura de aplicação (Back-end, Front-end e Aplicativo móvel)
 
 Tenho como idiomas:
-Inglês Intermediário 
+Inglês Intermediário <br/>
 Espanhol Básico
 
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bmafra/"><img width="100px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/1PYnSx5.png"/></a>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:barbaramafra123@hootmail.com"><img width="100px" alt="Hotmail" title="hotmail" src="https://i.imgur.com/AEf25Ki.png"/></a>
+      &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:barbaramafra123@hootmail.com"><img width="100px" alt="Hotmail" title="hotmail" src="https://i.imgur.com/wb19miR.png"/></a>
 </p>
 
 <br/>
